@@ -1,8 +1,8 @@
-# Hi, I'm Josiah Djan 
+# Welcome to my GitHub Page! 
 
 Hi there my name is Josiah but you can call me Josh if you like. 
 
-I am a junior software developer based in Hull & London.  
+I am a junior software developer based in London and looking forward to kickstart my career in tech.  
 
 
 Welcome to my Git Profile!!
